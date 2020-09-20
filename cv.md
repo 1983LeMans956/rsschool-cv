@@ -2,7 +2,7 @@
 ### Kirill Kutyrkin
 
 ### Contact Info
--	phone: +7(927)543-97-70 
+-	phone number: +7(927)543-97-70 
 -	email: whiteqwerty@yandex.ru 
 ### Summary
 My goal is to improve my skills in the direction of web development and find a job in this field.
