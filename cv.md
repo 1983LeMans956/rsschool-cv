@@ -1,6 +1,4 @@
-## Resume
 ### Kirill Kutyrkin
-
 ### Contact Info
 -	phone number: +7(927)543-97-70 
 -	email: whiteqwerty@yandex.ru 
