@@ -1,2 +1,1 @@
-# rsschool-cv
-https://your-github-account.github.io/rsschool-cv/cv
+## [Resume](https://1983LeMans956.github.io/rsschool-cv/cv)
